@@ -82,23 +82,7 @@ Computer Engineering student specializing in AI/ML and software engineering. Exp
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omtawde09&show_icons=true&theme=tokyonight"/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omtawde09&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtawde09&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omtawde09&theme=onestar&no-frame=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 </p>
 
 ---
@@ -129,6 +113,6 @@ Computer Engineering student specializing in AI/ML and software engineering. Exp
 
 ---
 
-### Keep Learning, Keep Building, Keep Growing
+<h4 align="center"> Keep Learning, Keep Building, Keep Growing </h4>
 
 <!-- Resume source: -->
