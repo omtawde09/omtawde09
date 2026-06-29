@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;AI+%26+ML+Enthusiast;Python+Developer+%7C+Automation+Learner;Building+Real-World+Software+Projects&font=Fira%20Code&center=true&color=00F7FF&width=600&height=50"/>
 </p>
-
 <p align="center">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 </p>
